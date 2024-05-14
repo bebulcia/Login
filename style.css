@@ -100,3 +100,11 @@ label a {
     color: white;
     text-decoration: none;
 }
+
+.conta a {
+    background-color: #ffffffc7;
+    color: black;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: small;
+}
